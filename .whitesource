@@ -1,0 +1,19 @@
+{
+    "help_link": "https://docs.mend.io/bundle/integrations/page/installing_mend_for_gitlab.html",
+    "scanSettings": {
+        "enableIaC": false,
+        "baseBranches": [
+            "main",
+            "testing1"
+        ]
+    },
+    "scanSettingsSAST": {
+        "enableScan": false
+    },
+    "remediateSettings": {
+        "enableRenovate": false,
+        "workflowRules": {
+            "enabled": true
+        }
+    }
+}
