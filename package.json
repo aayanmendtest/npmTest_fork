@@ -6,6 +6,7 @@
   "dependencies": {
     "axios": "0.21.2",
     "mime-types": "2.1.1",
+    "faker": "6.6.6",
     "protractor": "7.0.0"
   },
   "resolutions": {
